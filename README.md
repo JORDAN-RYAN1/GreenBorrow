@@ -169,6 +169,7 @@ npm run dev
 # Build for production
 npm run build
 ```
+**Demo Access:** Click the **“Demo Login”** button on the app to explore the features instantly with sample data—browse items, join challenges, and see CO₂ impact in action.
 
 ### **Database Setup**
 1. Create Supabase project
@@ -190,6 +191,11 @@ npm run build
 - **CDN Integration** for global performance
 - **Advanced Analytics** with machine learning
 - **Partnership Integration** with local governments
+
+### 🤖 **Future AI Integration**
+
+*Currently, CO₂ savings are entered manually based on predefined estimates for each item. In future versions, we plan to integrate **AI-powered calculation** that can automatically estimate CO₂ impact based on item type, usage, and condition, making impact tracking smarter and more accurate.*
+
 
 ## 🏆 **Hackathon Highlights**
 
@@ -215,28 +221,12 @@ npm run build
 5. **Challenges**: Demonstrate gamification system
 6. **Impact**: Highlight CO₂ savings and community benefit
 
-## 👥 **Team & Acknowledgments**
-
-**Built by**: [Your Name]  
-**Hackathon**: Syrotech MVP Hackathon  
-**Timeline**: [Duration]  
-**Tech Stack**: React, Supabase, Chart.js, Vite
-
-### **Special Thanks**
-- Supabase for the incredible backend platform
-- Chart.js for beautiful data visualizations
-- The open-source community for amazing tools
-
-## 📄 **License**
-
-MIT License - feel free to use this project as inspiration for your own community sharing platforms!
-
 ---
 
 ### 🌟 **Experience GreenBorrow**
 
-**Live Demo**: [Your deployment URL]  
-**Repository**: [Your GitHub repo]  
+**Live Demo**: https://green-borrow.vercel.app
+**Repository**: https://github.com/JORDAN-RYAN1/GreenBorrow 
 **Demo Login**: Use "Demo Login" button for instant access
 
 *Building sustainable communities, one shared item at a time.* 🌱
@@ -244,3 +234,5 @@ MIT License - feel free to use this project as inspiration for your own communit
 ---
 
 **Note**: This project demonstrates the power of technology to solve real-world environmental and community problems. The combination of practical sharing economy features with engaging gamification creates a platform that users will love while making a positive impact on the planet.
+
+Got it! You can add a small, friendly note under **🌟 Experience GreenBorrow** like this:
